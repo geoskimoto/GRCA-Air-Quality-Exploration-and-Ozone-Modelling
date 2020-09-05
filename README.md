@@ -4,3 +4,6 @@ Exploration of air quality at Grand Canyon and linear regression modelling for O
 ![Distr-GRCA-Pollutants](/pollutants_GRCA.png)
 
 ![ImportPollutants](/important_pollunants_GRCA.png)
+
+
+
