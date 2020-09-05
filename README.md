@@ -5,7 +5,6 @@ Code can be seen in the .ipynb Jupyter Notebook.
 
 ![Distr-GRCA-Pollutants](/pollutants_GRCA.png)
 
-![ImportPollutants](/important_pollunants_GRCA.png)
 
 
 
