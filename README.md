@@ -1,5 +1,5 @@
 # GRCA-Air-Quality-Exploration-and-Ozone-Modelling
-Exploration of air quality at Grand Canyon and linear regression modelling for Ozone using exogenous variables.
+Exploration of various air quality parameters at Grand Canyon and linear regression modelling for Ozone using exogenous variables.
 
 Click and open .ipynb Jupyter Notebook to see many more visualizations and analysis.
 
